@@ -1,5 +1,9 @@
 
-<h1 align="center">Hello Guys! I'm Rakuze!</h1>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Rakuze</h1></summary>
+  </ul>
+</div>
 
 ## Introduction
 
@@ -25,12 +29,6 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
-  </ul>
-</div>
 
 
 <!--- snake -->
@@ -43,7 +41,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Error is my lover</h2></summary>
   </ul>
 </div>
 
